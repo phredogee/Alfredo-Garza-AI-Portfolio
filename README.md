@@ -11,7 +11,7 @@ Houston Community College — AI Program
 
 ## 👋 About Me
 
-I'm Alfredo Garza, an AI/ML student at Houston Community College building real-world intelligent systems with Python, NLP, and large language models. My work spans end-to-end NLP pipelines, classical machine learning, semantic search, and LLM-powered applications. I'm passionate about turning unstructured data into actionable insights.
+I'm Alfredo Garza, an AI/ML student at Houston City College building real-world intelligent systems with Python, NLP, and large language models. My work spans end-to-end NLP pipelines, classical machine learning, semantic search, and LLM-powered applications. I'm passionate about turning unstructured data into actionable insights.
 
 ---
 
